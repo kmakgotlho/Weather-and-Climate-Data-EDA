@@ -1,6 +1,6 @@
 # 🌦 Weather and Climate Data – Exploratory Data Analysis (EDA)
 
-<img width="886" height="790" alt="Image" src="https://github.com/user-attachments/assets/f1089fa1-4f4e-4556-92e2-566a5b80451b" />
+
 
 ## 📌 Overview
 This project performs an **Exploratory Data Analysis (EDA)** on a weather and climate dataset to uncover trends, relationships, and seasonal variations in meteorological data.  
@@ -61,6 +61,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 6. Correlation Analysis
 - **Insight:** Temperature & dew point correlate > 0.8; visibility & humidity negatively correlated.
+  <img width="886" height="790" alt="Image" src="https://github.com/user-attachments/assets/f1089fa1-4f4e-4556-92e2-566a5b80451b" />
 
 ### 7. Atmospheric Pressure & Weather
 - Distribution patterns show variations based on weather categories.
