@@ -61,6 +61,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 5. Wind Speed by Month
 - **Insight:** **January** records highest speeds (up to 33 km/h); other months are moderate.
+  <img width="1236" height="677" alt="Image" src="https://github.com/user-attachments/assets/cca6622c-ae4d-45f2-b459-24c40b3f7213" />
 
 ### 6. Correlation Analysis
 - **Insight:** Temperature & dew point correlate > 0.8; visibility & humidity negatively correlated.
