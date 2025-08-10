@@ -55,6 +55,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 4. Temperature & Dew Point Relationship
 - **Insight:** Strong positive correlation — higher humidity when the two are close.
+  <img width="967" height="837" alt="Image" src="https://github.com/user-attachments/assets/f26a1cba-edbd-44c7-a70a-6d1ea15d891e" />
 
 ### 5. Wind Speed by Month
 - **Insight:** **January** records highest speeds (up to 33 km/h); other months are moderate.
