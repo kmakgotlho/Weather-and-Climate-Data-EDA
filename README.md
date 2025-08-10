@@ -69,6 +69,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 7. Atmospheric Pressure & Weather
 - Distribution patterns show variations based on weather categories.
+  <img width="1692" height="667" alt="Image" src="https://github.com/user-attachments/assets/f0c18bd4-f0b2-4a6c-bf89-a0cfb3d979b8" />
 
 ---
 
