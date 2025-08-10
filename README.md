@@ -53,6 +53,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 3. Humidity vs Weather Conditions
 - **Insight:** **Snow** has highest humidity (92%), while **clear weather** has lower values.
+  <img width="1693" height="502" alt="Image" src="https://github.com/user-attachments/assets/fad56d95-d826-4de5-bd34-3e917c109c9c" />
 
 ### 4. Temperature & Dew Point Relationship
 - **Insight:** Strong positive correlation — higher humidity when the two are close.
