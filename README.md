@@ -49,6 +49,7 @@ The aim is to better understand climate behaviour and identify insights useful f
 
 ### 2. Temperature Distribution
 - **Insight:** Ranges from **-13.9°C to 23.5°C**, indicating strong seasonal variation.
+  <img width="1051" height="677" alt="Image" src="https://github.com/user-attachments/assets/2a1e3b51-f8c8-4c30-aa20-9611d52839e8" />
 
 ### 3. Humidity vs Weather Conditions
 - **Insight:** **Snow** has highest humidity (92%), while **clear weather** has lower values.
