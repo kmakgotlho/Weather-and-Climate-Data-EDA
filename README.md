@@ -1,5 +1,7 @@
 # 🌦 Weather and Climate Data – Exploratory Data Analysis (EDA)
 
+<img width="886" height="790" alt="Image" src="https://github.com/user-attachments/assets/f1089fa1-4f4e-4556-92e2-566a5b80451b" />
+
 ## 📌 Overview
 This project performs an **Exploratory Data Analysis (EDA)** on a weather and climate dataset to uncover trends, relationships, and seasonal variations in meteorological data.  
 The analysis covers:
