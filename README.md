@@ -87,3 +87,12 @@ The aim is to better understand climate behaviour and identify insights useful f
    ```bash
    git clone https://github.com/yourusername/weather-climate-eda.git
    cd weather-climate-eda
+
+---
+🎓 Data Analyst & BSc IT (Data Science) Student  
+💡 Passionate about leveraging data for impactful solutions  
+📍 South Africa  
+
+📫 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/keneilwe-makgotlho-287b64218)  
+- [Portfolio Website](https://kmakgotlho0.wixsite.com/keneilwe-makgotlho) 
